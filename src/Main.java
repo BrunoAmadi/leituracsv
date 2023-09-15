@@ -16,7 +16,7 @@ public class Main {
 
 		List<Product> listP = new ArrayList<>();
 		
-		String path = "c:\\Temp\\vendas.csv";
+		String path = "vendas.csv";
 		File file = new File(path);
 		Scanner sc = null;
 		
